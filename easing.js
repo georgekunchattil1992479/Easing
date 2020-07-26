@@ -12,7 +12,10 @@ let startAnimation = () => {
     let options = {
         duration: 3000,
 
-        easing: "cubic-bezier(0.5, 0, 0.75, 0)" //easeInQuart JS animation
+       /*  easing: "cubic-bezier(0.5, 0, 0.75, 0)" //easeInQuart JS animation */
+
+       //# Challenge: Easing Animation
+        easing: "cubic-bezier(0.85, 0, 0.15, 1)"  //easeInOutCirc Animation
 
     };
 
