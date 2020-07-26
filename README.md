@@ -1,1 +1,2 @@
-"Easing" 
+# Easing
+JS Animation
